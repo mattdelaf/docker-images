@@ -1,4 +1,4 @@
-FROM node:10-alpine
+FROM node:12-alpine
 
 LABEL maintainer="Matthieu De La Fourniere<matthieudelafourniere@gmail.com>"
 LABEL description="Available on DockerHub at mastymattdelaf/node-alpine-git-zip-aws"
