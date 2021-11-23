@@ -9,5 +9,5 @@ docker login # make sure you login to docker account
 
 docker build . -t mastymattdelaf/node-alpine-git-zip-aws
 
-docker push mastymattdelafnode-alpine-git-zip-aws
+docker push mastymattdelaf/node-alpine-git-zip-aws
 ```
